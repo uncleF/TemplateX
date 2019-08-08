@@ -6,6 +6,7 @@ const tasks = {
     prefix: 'spt-',
     svg: {
       class: 'sourceSVG',
+      'xmlns:xlink': 'http://www.w3.org/1999/xlink',
     },
     formatting: {
       indent_size: 2,
